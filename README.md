@@ -1,4 +1,4 @@
 # checker
 
-"version": 1.7.1
-"server_message": none
+<div class="version">1.7.1</div>
+<div class="server_message">null</div>
